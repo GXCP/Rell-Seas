@@ -8,6 +8,11 @@
     margin: 0;
     padding: 0;
 }
+body{
+    color: var(--cor-princpal);
+    font-weight: 400;
+    font-size: 16px;
+}
 .principal{
     background-image: url(img/background.png);
     background-size: contain;
@@ -15,4 +20,14 @@
 }
 .container{
     height: 100vh;
+    display:grid;
+    grid-template-columns: 30% 70%;
+}
+.container--botao{
+    background-color: var(--botao-destaque);
+    color: var(--cor-princpal);
+    padding: 1em;  
+    border-radius: 5px;
+    text-decoration: none;
+    display: block;                                      ;
 }
