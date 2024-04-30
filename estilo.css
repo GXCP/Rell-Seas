@@ -19,7 +19,7 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     text-align: right;
-    font-size: large;
+    font-size: 50px;
 }
 .container{
     height: 100vh;
