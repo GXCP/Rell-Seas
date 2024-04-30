@@ -19,6 +19,9 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     text-align: right;
+    
+}
+.titulo{
     font-size: 50px;
 }
 .container{
