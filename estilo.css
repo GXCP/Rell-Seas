@@ -19,6 +19,7 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     text-align: right;
+    font-size: large;
 }
 .container{
     height: 100vh;
