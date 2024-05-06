@@ -24,7 +24,8 @@ body{
 .titulo{
     font-size: 150px;
     text-align: center;
-    margin: 100px;
+    margin-left: 100px;
+    margin-top: 300px;
 }
 .container{
     height: 100vh;
