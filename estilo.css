@@ -47,10 +47,10 @@ body{
     background-color: var(--botao-destaque);
     color: var(--cor-princpal);
     padding: 1em;  
-    border-radius: 20px;
+    border-radius: 5px;
     text-decoration: none;
     display: block;
-    width: 8%;
+    width: 20%;
     margin-left: 710px;
     margin-top: -50px;                                   ;
 }
